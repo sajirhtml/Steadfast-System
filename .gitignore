@@ -6,6 +6,7 @@ config.js
 # Documentation (keep local only)
 GITHUB_SETUP_GUIDE.md
 LICENSE_REVIEW.md
+DESCRIPTION.txt
 
 # OS Files
 .DS_Store
