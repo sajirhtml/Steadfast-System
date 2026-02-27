@@ -1,0 +1,37 @@
+# API Configuration (if you separate it later)
+config.js
+.env
+*.env
+
+# Documentation (keep local only)
+GITHUB_SETUP_GUIDE.md
+LICENSE_REVIEW.md
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup Files
+*.bak
+*.backup
+*_backup.js
+
+# Test Data
+test_data/
+*.test.js
+
+# Logs
+*.log
+logs/
+
+# Google Apps Script (local development)
+.clasp.json
+.claspignore

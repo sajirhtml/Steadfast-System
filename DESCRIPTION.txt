@@ -1,0 +1,1 @@
+Automated order management and courier dispatch system for e-commerce businesses. Streamlines order processing, integrates with Steadfast Courier API for parcel dispatch, and provides real-time delivery tracking with Google Apps Script.
